@@ -59,7 +59,6 @@ Apki-email/
 ├── index.html          # Main page markup
 ├── style.css           # Styles
 ├── images/             # Background and static images
-├── screenshots/        # README preview images
 └── README.md
 ```
 
